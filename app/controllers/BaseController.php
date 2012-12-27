@@ -8,7 +8,7 @@ class BaseController extends Controller
 	 * @access   public
 	 * @return   void
 	 */
-	public function __contruct()
+	public function __construct()
 	{
 		$this->beforeFilter('csrf', array('on' => 'post'));
 	}
