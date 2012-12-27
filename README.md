@@ -4,7 +4,7 @@ This is a Laravel 4 Bootstrap Application, and like the name, it has Twitter Boo
 
 ###How to install
 
-	git clone git://github.com/bruno-g/laravel4-bootstrap.git folder
+	git clone git://github.com/bruno-g/Laravel4-Bootstrap.git folder
 	cd folder
 	curl -s http://getcomposer.org/installer | php
 	php composer.phar install
@@ -21,7 +21,7 @@ Now that you have the Laravel 4 installed, you need to create a database for it 
 
 -----
 
-Navigate you your Laravel 4 website and try to login with the default credentials:
+Navigate to your Laravel 4 website and try to login with the default credentials:
 
 	email : test@test.com
 	password : test
