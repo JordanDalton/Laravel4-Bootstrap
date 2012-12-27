@@ -22,6 +22,7 @@ Now that you have the Laravel 4 installed, you need to create a database for it 
 -----
 
 Navigate you your Laravel 4 website and try to login with the default credentials:
+
 	email : test@test.com
 	password : test
 
