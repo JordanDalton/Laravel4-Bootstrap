@@ -25,7 +25,7 @@ class AccountController extends AuthorizedController
 	{
 		// Show the page.
 		//
-		return View::make('account/index')->with('user', User::find(Auth::user()->id));
+		return View::make('account/index')->with('user', Auth::user());
 	}
 
 	/**
