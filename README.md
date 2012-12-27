@@ -1,6 +1,6 @@
 ##Laravel 4 - Bootstrap Application
 
-This is a Laravel 4 Boostrap Application, and like the name, it has Twitter Bootstrap 2.2.2 and it comes as example application to help you get started on using Laravel 4 :)
+This is a Laravel 4 Bootstrap Application, and like the name, it has Twitter Bootstrap 2.2.2 and it comes as an example application to help you get started on using Laravel 4 :)
 
 ###How to install
 
